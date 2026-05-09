@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.ipynb_checkpoints/
+models/
+data/raw/
+data/processed/*.csv
+data/processed/embeddings/
+*.log
+*.zip
+.kaggle/
+.matplotlib_cache/
+*.numbers
+~$*
+*.docx
