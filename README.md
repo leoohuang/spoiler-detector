@@ -1,5 +1,7 @@
 # Multi-Source Spoiler Detector
 
+![Spoiler Detector cover](assets/cover.png)
+
 > A three-level movie-review spoiler classifier that detects whether text is safe, mildly spoiler-like, or a major spoiler.
 
 [![Demo](https://img.shields.io/badge/Hugging%20Face-Space-blue)](https://huggingface.co/spaces/leoole/spoiler-detector)
